@@ -1,0 +1,226 @@
+"continent","location","age_group","death_count"
+"North America","United States","30-50",1124063
+"South America","Brazil","30-50",701494
+"Asia","India","Under 30",531564
+"Europe","Russia","30-50",398366
+"North America","Mexico","Under 30",333908
+"Europe","United Kingdom","30-50",224106
+"South America","Peru","Under 30",220122
+"Europe","Italy","30-50",189738
+"Europe","Germany","30-50",173044
+"Europe","France","30-50",162868
+"Asia","Indonesia","Under 30",161327
+"Asia","Iran","30-50",146058
+"South America","Colombia","30-50",142713
+"South America","Argentina","30-50",130472
+"Asia","China","30-50",120961
+"Europe","Spain","30-50",120715
+"Europe","Poland","30-50",119555
+"Europe","Ukraine","30-50",112128
+"Africa","South Africa","Under 30",102595
+"Asia","Turkey","30-50",101419
+"Asia","Japan","30-50",74542
+"Europe","Romania","30-50",68089
+"Asia","Philippines","Under 30",66444
+"South America","Chile","30-50",64497
+"North America","Canada","30-50",52121
+"Europe","Hungary","30-50",48762
+"Asia","Vietnam","30-50",43191
+"Europe","Czechia","30-50",42767
+"Europe","Bulgaria","30-50",38328
+"Asia","Malaysia","Under 30",37020
+"Europe","Greece","30-50",36754
+"South America","Ecuador","Under 30",36019
+"Asia","South Korea","30-50",34487
+"Europe","Belgium","30-50",34237
+"Asia","Thailand","30-50",33957
+"Asia","Pakistan","Under 30",30656
+"Asia","Bangladesh","Under 30",29446
+"Africa","Tunisia","30-50",29387
+"Europe","Portugal","30-50",26575
+"Asia","Iraq","Under 30",25375
+"Africa","Egypt","Under 30",24826
+"Europe","Sweden","30-50",24070
+"Europe","Netherlands","30-50",22992
+"South America","Bolivia","Under 30",22377
+"Europe","Austria","30-50",22372
+"Europe","Slovakia","30-50",21167
+"North America","Guatemala","Under 30",20189
+"Oceania","Australia","30-50",20119
+"South America","Paraguay","Under 30",19880
+"Asia","Myanmar","Under 30",19492
+"Asia","Kazakhstan","30-50",19072
+"Europe","Croatia","30-50",18180
+"Europe","Serbia","30-50",18021
+"Asia","Georgia","30-50",17059
+"Asia","Sri Lanka","30-50",16843
+"Europe","Bosnia and Herzegovina","30-50",16337
+"Africa","Morocco","Under 30",16297
+"Asia","Jordan","Under 30",14122
+"Europe","Switzerland","30-50",13995
+"Asia","Israel","30-50",12493
+"Europe","Moldova","30-50",12112
+"Asia","Nepal","Under 30",12030
+"North America","Honduras","Under 30",11112
+"Asia","Lebanon","30-50",10900
+"Asia","Azerbaijan","30-50",10242
+"Europe","North Macedonia","30-50",9673
+"Europe","Lithuania","30-50",9668
+"Asia","Saudi Arabia","30-50",9643
+"North America","Costa Rica","30-50",9351
+"Europe","Finland","30-50",9308
+"Europe","Slovenia","30-50",9304
+"Europe","Ireland","30-50",8849
+"Asia","Armenia","30-50",8747
+"North America","Panama","Under 30",8621
+"Europe","Denmark","30-50",8556
+"North America","Cuba","30-50",8530
+"Asia","Afghanistan","Under 30",7892
+"South America","Uruguay","30-50",7625
+"Africa","Ethiopia","Under 30",7574
+"Europe","Belarus","30-50",7118
+"Africa","Algeria","Under 30",6881
+"Africa","Libya","Under 30",6437
+"Europe","Latvia","30-50",6346
+"North America","Puerto Rico","30-50",5891
+"South America","Venezuela","Under 30",5856
+"Asia","Palestine","Under 30",5708
+"Africa","Kenya","Under 30",5688
+"Africa","Zimbabwe","Under 30",5686
+"Europe","Norway","30-50",5435
+"Africa","Sudan","Under 30",5046
+"Asia","Oman","30-50",4628
+"North America","Trinidad and Tobago","30-50",4387
+"North America","Dominican Republic","Under 30",4384
+"North America","El Salvador","Under 30",4230
+"Africa","Namibia","Under 30",4090
+"Africa","Zambia","Under 30",4058
+"Africa","Uganda","Under 30",3632
+"Europe","Albania","30-50",3604
+"North America","Jamaica","30-50",3536
+"Europe","Kosovo","Above 70",3206
+"Asia","Syria","Under 30",3163
+"Africa","Nigeria","Under 30",3155
+"Asia","Cambodia","Under 30",3056
+"Europe","Estonia","30-50",3001
+"Asia","Kyrgyzstan","Under 30",2991
+"Europe","Montenegro","30-50",2808
+"Africa","Botswana","Under 30",2796
+"Oceania","New Zealand","30-50",2736
+"Africa","Malawi","Under 30",2686
+"Asia","Kuwait","30-50",2570
+"Asia","United Arab Emirates","30-50",2349
+"Africa","Mozambique","Under 30",2243
+"Asia","Yemen","Under 30",2159
+"Asia","Mongolia","Under 30",2136
+"Africa","Cameroon","Under 30",1971
+"Africa","Senegal","Under 30",1971
+"Africa","Angola","Under 30",1934
+"Asia","Singapore","30-50",1722
+"Asia","Uzbekistan","Under 30",1637
+"Asia","Bahrain","30-50",1536
+"Africa","Rwanda","Under 30",1468
+"Africa","Democratic Republic of Congo","Under 30",1464
+"Africa","Ghana","Under 30",1462
+"Africa","Eswatini","Under 30",1425
+"Africa","Madagascar","Under 30",1424
+"South America","Suriname","Under 30",1404
+"Africa","Somalia","Under 30",1361
+"Europe","Cyprus","30-50",1354
+"South America","Guyana","Under 30",1298
+"Europe","Luxembourg","30-50",1232
+"North America","Martinique","30-50",1100
+"Africa","Mauritius","30-50",1046
+"North America","Guadeloupe","30-50",1017
+"Africa","Mauritania","Under 30",997
+"Africa","Reunion","30-50",921
+"Oceania","Fiji","Under 30",883
+"North America","Haiti","Under 30",860
+"Africa","Tanzania","Under 30",846
+"North America","Bahamas","30-50",844
+"Europe","Malta","30-50",835
+"Africa","Cote d'Ivoire","Under 30",834
+"Africa","Mali","Under 30",743
+"Africa","Lesotho","Under 30",706
+"Asia","Qatar","30-50",690
+"North America","Belize","Under 30",688
+"Asia","Laos","Under 30",671
+"Oceania","Papua New Guinea","Under 30",670
+"Oceania","French Polynesia","30-50",649
+"North America","Barbados","30-50",588
+"Africa","Guinea","Under 30",467
+"Oceania","Guam","30-50",415
+"South America","French Guiana","Under 30",413
+"Africa","Cape Verde","Under 30",413
+"North America","Saint Lucia","30-50",409
+"Africa","Burkina Faso","Under 30",396
+"Africa","Congo","Under 30",389
+"Africa","Gambia","Under 30",372
+"Africa","Niger","Under 30",315
+"Oceania","New Caledonia","30-50",314
+"Asia","Maldives","30-50",313
+"Africa","Gabon","Under 30",306
+"North America","Curacao","30-50",301
+"Africa","Liberia","Under 30",294
+"Africa","Togo","Under 30",290
+"North America","Aruba","30-50",287
+"Europe","Iceland","30-50",260
+"North America","Nicaragua","Under 30",245
+"North America","Grenada","Under 30",238
+"Africa","Chad","Under 30",194
+"Africa","Djibouti","Under 30",189
+"Africa","Mayotte","Under 30",187
+"Africa","Equatorial Guinea","Under 30",183
+"Africa","Guinea-Bissau","Under 30",176
+"Africa","Seychelles","30-50",172
+"North America","Bermuda","Above 70",165
+"Africa","Benin","Under 30",163
+"Africa","Comoros","Under 30",161
+"Europe","Jersey","Above 70",161
+"Europe","Andorra","Above 70",159
+"Asia","Brunei","30-50",157
+"Oceania","Solomon Islands","Under 30",153
+"North America","Antigua and Barbuda","30-50",146
+"Asia","Timor","Under 30",138
+"Africa","South Sudan","Under 30",138
+"North America","United States Virgin Islands","30-50",130
+"Africa","Sierra Leone","Under 30",126
+"Europe","San Marino","Above 70",125
+"Asia","Tajikistan","Under 30",125
+"North America","Saint Vincent and the Grenadines","30-50",124
+"Europe","Isle of Man","Above 70",116
+"Europe","Gibraltar","Above 70",113
+"Africa","Central African Republic","Under 30",113
+"Africa","Eritrea","Under 30",103
+"North America","Sint Maarten (Dutch part)","Above 70",92
+"Europe","Liechtenstein","Above 70",87
+"Africa","Sao Tome and Principe","Under 30",80
+"North America","Dominica","Above 70",74
+"Europe","Guernsey","Above 70",67
+"Europe","Monaco","Above 70",67
+"Oceania","Micronesia (country)","Under 30",64
+"North America","British Virgin Islands","Above 70",64
+"North America","Saint Martin (French part)","Above 70",46
+"North America","Saint Kitts and Nevis","Above 70",46
+"North America","Bonaire Sint Eustatius and Saba","Above 70",41
+"Oceania","Northern Mariana Islands","Above 70",41
+"North America","Turks and Caicos Islands","Above 70",38
+"North America","Cayman Islands","Above 70",37
+"Oceania","American Samoa","Above 70",34
+"Oceania","Samoa","Under 30",31
+"Europe","Faeroe Islands","Above 70",28
+"Oceania","Kiribati","Under 30",24
+"Asia","Bhutan","Under 30",21
+"North America","Greenland","Above 70",21
+"Oceania","Marshall Islands","Above 70",17
+"Africa","Burundi","Under 30",15
+"Oceania","Vanuatu","Under 30",14
+"Oceania","Tonga","Under 30",12
+"North America","Anguilla","Above 70",12
+"Oceania","Palau","Above 70",9
+"North America","Montserrat","Above 70",8
+"Oceania","Wallis and Futuna","Above 70",7
+"North America","Saint Barthelemy","Above 70",5
+"North America","Saint Pierre and Miquelon","Above 70",2
+"Oceania","Cook Islands","Above 70",2
+"Oceania","Nauru","Above 70",1
